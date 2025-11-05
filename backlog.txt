@@ -1,5 +1,3 @@
 Write an introduction
-Endre titles på grafer i part 3
-Introduction to all the graphs?
 For-loop in 4.2
 Skriv deloppgaver som headings
